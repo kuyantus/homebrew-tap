@@ -1,8 +1,8 @@
 class Tshc < Formula
   desc "Log in to multiple Teleport clusters using KeePass"
   homepage "https://github.com/kuyantus/tshc"
-  url "https://github.com/kuyantus/tshc/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "15062b5313a41be6794e6b093529b526e5d6c5ab00cf11b25298b0759f8f8d76"
+  url "https://github.com/kuyantus/tshc/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "aeb5313900f83521fd4fdc9bb1f2271cf70cb101fa935ec77e5d308581e27316"
   license "MIT"
 
   depends_on "go" => :build
